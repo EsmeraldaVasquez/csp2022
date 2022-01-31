@@ -1,0 +1,47 @@
+body{
+  background-color: #8547ff
+}
+
+h1{
+  border-color: black;
+  border-width: 2px;
+  border-style: double; 
+}
+
+
+h3 a:hover {
+  background-color: #7332b8;
+  text-decoration: none ;
+}
+
+  img{
+  width: 30px;
+  height: 30px;
+}
+
+h4{
+  font-style: "Times New Roman", Times, serif;
+}
+
+.jpg {
+  height: auto;
+  width: auto; 
+    float: left; 
+    margin-right: 10px; 
+    border: double; 
+    border-width: thick;
+  } 
+
+  .jpg {
+        background: url("") no-repeat;
+    }
+
+  div { 
+    float: left; 
+    width: calc(69.5% - 350px - 10px); 
+  }
+
+  a{
+    background-color: #7332b8;
+    text-decoration: underline ;
+  }
